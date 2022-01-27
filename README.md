@@ -3,6 +3,8 @@
 
 ![3macacos GIF](GIF.gif)
   
-![Identidade Visual](IV.png)
+ 
 
-</div>
+<img src="IV.png" width="700">
+  
+  </div>
